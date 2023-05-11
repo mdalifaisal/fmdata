@@ -1,0 +1,1 @@
+# This repository holds code for a shiny application that allows you to download data for main currency rates and stock indices. This data is to be used in a paper that is under preparation with my co-author, Prof. Murat Donduran of Yildiz Technical University.  
